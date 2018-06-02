@@ -1,0 +1,40 @@
+
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+
+
+
+
+.login{
+	position: absolute;
+	right:250px;
+	top: 1700px;
+	background-color:#5B2F9E;
+	width: 450px;
+	height: 90px;
+	border-radius: 9px;
+	border: none;
+	color: white;
+	font-weight: bold;
+	font-size: 3em;
+}
+
+.signup {
+	position: absolute;
+	right: 250px;
+	top: 1600px;
+	background-color: #EB3DAB;
+	width: 450px;
+	height: 90px;
+	border-radius: 9px;
+	border: none;
+	color: white;
+	font-weight: bold;
+	font-size: 3em;
+
+}
+
+}

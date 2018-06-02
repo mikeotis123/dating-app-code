@@ -1,0 +1,26 @@
+@import "footer";
+@import "navigation";
+@import "button";
+
+
+
+
+h1 {
+	position:absolute;
+  left: 50%;
+  top: 10%;
+	margin-left: 0 auto;
+	margin-right: 0 auto;
+	justify-content: center;
+	color: white;
+}
+
+p {
+	position: absolute;
+right: 12%;
+top: 13%;
+color: white;
+font-size: 2em;
+font-weight: bold;
+
+}
